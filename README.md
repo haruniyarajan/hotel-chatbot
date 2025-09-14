@@ -86,13 +86,6 @@ hotel-chatbot/
 - **Storage**: Cached locally in `data/` folder
 - **Features**: Booking details, pricing, guest demographics, cancellation patterns
 
-## 📊 Dataset Information
-
-- **Source**: [Hotel Bookings Analysis Dataset](https://www.kaggle.com/datasets/thedevastator/hotel-bookings-analysis)
-- **Size**: 119,390 hotel booking records with 33 features
-- **Download**: Automatically downloaded on first run (no manual setup needed)
-- **Storage**: Cached locally in `data/` folder
-- **Features**: Booking details, pricing, guest demographics, cancellation patterns
 
 ## 🧪 Testing
 
